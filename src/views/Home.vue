@@ -1,9 +1,9 @@
 <template>
   <div class="">
-     <h2 class="text-2xl font-bold leading-7 text-red-500 sm:text-3xl sm:leading-9 sm:truncate mb-2">
+     <h2 class="text-2xl font-bold leading-7 text-red-500 sm:text-3xl sm:leading-9 sm:truncate mb-6">
       Dota 2 Counter pick
     </h2>
-      <SearchHero></SearchHero>
+    <SearchHero></SearchHero>
   </div>
 </template>
 
